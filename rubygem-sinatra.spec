@@ -4,7 +4,7 @@
 #
 Name     : rubygem-sinatra
 Version  : 1.4.6
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/sinatra-1.4.6.gem
 Source0  : https://rubygems.org/downloads/sinatra-1.4.6.gem
 Summary  : No detailed summary available
