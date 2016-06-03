@@ -4,13 +4,14 @@
 #
 Name     : rubygem-sinatra
 Version  : 1.4.7
-Release  : 8
+Release  : 9
 URL      : https://rubygems.org/downloads/sinatra-1.4.7.gem
 Source0  : https://rubygems.org/downloads/sinatra-1.4.7.gem
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : MIT
 BuildRequires : ruby
+BuildRequires : rubygem-asciidoctor
 BuildRequires : rubygem-minitest
 BuildRequires : rubygem-rack
 BuildRequires : rubygem-rack-protection
